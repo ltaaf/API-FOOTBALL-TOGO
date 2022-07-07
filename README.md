@@ -8,6 +8,9 @@ Coach: Malick Bah
 CONTEXTE
     La Fédération Togolaise de Football a lancé un appel d'offre publique pour la digitalisation de son système de gestion des statistiques des joueurs. La solution conçue devra répondre aux exigences listées dans les critères de performance ci-dessous pour prétendre à gagner le marché.
 
+LIEN DEPLOIEMENT
+    + https://afternoon-mountain-45400.herokuapp.com/
+
 PERFORMANCE
     L'API passe les tests suivants sur PostMan:
     GET:
